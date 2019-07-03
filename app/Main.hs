@@ -3,6 +3,7 @@
 
 module Main where
 
+import Lib
 import GHC.Generics
 
 import Web.Scotty
